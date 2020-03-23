@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1584985371 source:c:\users\comp\desktop\lab2\main.cpp
+	<iostream>
+	<cstring>
+	"person.h"
+
+1584985284 c:\users\comp\desktop\lab2\person.h
+	<iostream>
+	<cstring>
+
+1584985573 source:c:\users\comp\desktop\lab2\person.cpp
+	"person.h"
+
+1584985573 source:c:\users\comp\desktop\программирование\person.cpp
+	"person.h"
+
+1584985284 c:\users\comp\desktop\программирование\person.h
+	<iostream>
+	<cstring>
+
